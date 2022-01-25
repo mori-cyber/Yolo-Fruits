@@ -294,5 +294,5 @@ professional support requests please visit [https://ultralytics.com/contact](htt
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
     </a>
 </div>
-#https://user-images.githubusercontent.com/65276280/151045926-d935842a-c698-433b-ab79-88f719c63d26.png
-#https://user-images.githubusercontent.com/65276280/151046272-f083a9c1-5921-475e-b961-17460278c684.jpg
+<img src ="https://user-images.githubusercontent.com/65276280/151045926-d935842a-c698-433b-ab79-88f719c63d26.png" width = "3%"/>
+<img src = "https://user-images.githubusercontent.com/65276280/151046272-f083a9c1-5921-475e-b961-17460278c684.jpg" width ="3%"/>
